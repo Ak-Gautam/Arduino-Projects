@@ -1,2 +1,2 @@
 # Arduino-Projects
-Contains several Arduino projects 
+This repo contains aarduino  projects code and related material, feel free to use,improve.
