@@ -8,13 +8,15 @@ It's a simple build. The purpose was to test the body of the robot for an upcomi
 
 ## BOM
 
+|Comp   | Name               |No.|
+|-------|--------------------|---|
+|MCU    | Arduino mega 2560  | 1 |
+|Battery| 7.4 V, 2s Li-ion   | 1 |
+|Motor  | 400RPM Gear motor  | 2 |
+|Driver | AF Motor shield V1 | 1 |
+|Sensors| IR Proximity sensor| 3 |
 
-|MCU    | Arduino mega 2560  |
-|-------|--------------------|
-|Battery| 7.4 V, 2s Li-ion   |
-|Motor  | 400RPM Gear motor  |
-|Sensors| IR Proximity sensor|
-
+*The Adafruit Motor shield V1 is embedded on the board with Arduino Mega 2560
 
 ## Some images
 
